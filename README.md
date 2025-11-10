@@ -1,0 +1,2 @@
+# IPL_Match_Analysis-using-python-numpy-pandas-matplotlib-seaborn-
+The IPL Match Analysis project focuses on exploring,visualizing detailed statistics Indian Premier League (IPL) matches to uncover insights about teams, players, and match performances.Using Python-based data analytics tools,this project performs Exploratory Data Analysis (EDA) to identify patterns, trends, and factors that influence match outcomes
